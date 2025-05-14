@@ -1,0 +1,1 @@
+When a user writes a note and clicks on "save", the browser sends an HTTP request to the server. The server processes the request and forwards it to the database. Then, the database saves the information and sends a confirmation back to the server. Finally, the server responds to the browser, and the user sees the result on the screen.
